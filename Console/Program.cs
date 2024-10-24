@@ -67,11 +67,11 @@ namespace TravisCILab
         {
             return double.Parse(x) + double.Parse(y);
         }
+
         public static double Subtract(string x, string y)
         {
             return double.Parse(x) - double.Parse(y);
         }
-        
         public static double Multiply(string x, string y)
         {
             return double.Parse(x) * double.Parse(y);
@@ -80,10 +80,11 @@ namespace TravisCILab
         {
             return double.Parse(x) / double.Parse(y);
         }
-        
+
+        // Implement this method following a similar pattern as above
         public static double Power(string x, string y)
         {
-            return double.Parse(x) ** double.Parse(y)
+            throw new NotImplementedException();
         }
     }
 
