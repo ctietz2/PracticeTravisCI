@@ -1,4 +1,4 @@
-[[![Build Status](https://travis-ci.org/dteske25/TravisCI.svg?branch=master)](https://travis-ci.org/dteske25/TravisCI)](https://app.travis-ci.com/ctietz2/PracticeTravisCI.svg?token=dWQJfgHjgyqyyH3yknAo&branch=master)
+[![Build Status](https://app.travis-ci.com/ctietz2/PracticeTravisCI.svg?token=dWQJfgHjgyqyyH3yknAo&branch=master)](https://app.travis-ci.com/ctietz2/PracticeTravisCI)
 
 # Travis CI Lab
 We are going to be setting up continuous integration today on a sample project. 
